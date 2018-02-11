@@ -75,5 +75,5 @@ int main (int argc, char *argv[])
 	fclose(src); // close the file
 	close (sockfd); // closes the connection 
 
-	return 0;
+return 0;
 }
