@@ -158,7 +158,7 @@ int main (int argc, char *argv[])
 	close(sock); // closes the connection 
 	printf("Connections closed succesfully \n");
 
-	return 0;
+return 0;
 }
 
 int calcCheckSum(void *point, int len){
