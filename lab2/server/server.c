@@ -74,5 +74,6 @@ int main (int argc, char *argv[])
 		
 	fclose(dst); // close file
 	close (connfd); // closes the connection
+return 0;
 }
 
