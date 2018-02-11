@@ -166,7 +166,7 @@ int main (int argc, char *argv[])
 	close(connfd1); // closes the connection
 	printf("Connections closed succesfully \n");
 
-	return 0;
+return 0;
 }
 
 int calcCheckSum(void *point, int len){
